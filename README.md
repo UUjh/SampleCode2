@@ -10,9 +10,7 @@ Managers/
   ObjectManager.cs       // 씬 내 오브젝트 등록/탐색, 배치 보조
   WindowManager.cs       // 캔버스 바닥 Y, 창 관련 유틸
   SoundManager.cs        // BGM/SFX 재생/볼륨
-  PopupManager.cs        // 팝업 스택/모달 관리, 튜토리얼 표시
   LocalizationManager.cs // 간단한 다국어 키 관리
-  TaskManager.cs         // 투두/알람 체크(스케줄)
 
 Character/
   Controller/
